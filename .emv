@@ -1,0 +1,2 @@
+DATABASE = 'mongodb+srv://<username>:<password>@cluster0.ewjvc.mongodb.net/<Cluster0>?retryWrites=true&w=majority'
+DATABASE_PASSWORD ='xbox360'
